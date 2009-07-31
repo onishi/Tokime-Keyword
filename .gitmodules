@@ -1,0 +1,3 @@
+[submodule "modules/Chord"]
+	path = modules/Chord
+	url = git://github.com/cho45/Chord.git
